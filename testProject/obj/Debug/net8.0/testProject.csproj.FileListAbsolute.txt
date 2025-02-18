@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\bin\Debug\net8.0\testProject.exe
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\bin\Debug\net8.0\testProject.deps.json
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\bin\Debug\net8.0\testProject.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\bin\Debug\net8.0\testProject.dll
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\bin\Debug\net8.0\testProject.pdb
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.dll
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\refint\testProject.dll
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.pdb
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\testProject.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\C# projects\testProject\testProject\obj\Debug\net8.0\ref\testProject.dll
