@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\testProject\\testProject\\testProject.csproj": {}
+    "C:\\Users\\user\\C# project\\testProject\\testProject\\testProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\testProject\\testProject\\testProject.csproj": {
+    "C:\\Users\\user\\C# project\\testProject\\testProject\\testProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\testProject\\testProject\\testProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\C# project\\testProject\\testProject\\testProject.csproj",
         "projectName": "testProject",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\testProject\\testProject\\testProject.csproj",
+        "projectPath": "C:\\Users\\user\\C# project\\testProject\\testProject\\testProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\testProject\\testProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\C# project\\testProject\\testProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
