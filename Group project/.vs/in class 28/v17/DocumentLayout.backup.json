@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|c:\\users\\user\\onedrive\\desktop\\c# projects\\group project testing\\in class 28\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\models\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\models\\mainwindowmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\models\\agemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\models\\agemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\views\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\views\\resultwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\views\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\views\\resultwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9A93ECB-5219-4465-AEED-B26E880A3AF4}|in class 28\\in class 28.csproj|solutionrelative:in class 28\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Models\\MainWindowModel.cs",
+              "RelativeDocumentMoniker": "in class 28\\Models\\MainWindowModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Models\\MainWindowModel.cs",
+              "RelativeToolTip": "in class 28\\Models\\MainWindowModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:39:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "in class 28\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "in class 28\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:41:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "in class 28\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "in class 28\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T08:23:41.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Viewmodels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "in class 28\\Viewmodels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Viewmodels\\MainViewModel.cs",
+              "RelativeToolTip": "in class 28\\Viewmodels\\MainViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:22:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgeModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Models\\AgeModel.cs",
+              "RelativeDocumentMoniker": "in class 28\\Models\\AgeModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Models\\AgeModel.cs",
+              "RelativeToolTip": "in class 28\\Models\\AgeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:18:14.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\ResultWindow.xaml.cs",
+              "RelativeDocumentMoniker": "in class 28\\Views\\ResultWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\ResultWindow.xaml.cs",
+              "RelativeToolTip": "in class 28\\Views\\ResultWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:26:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\ResultWindow.xaml",
+              "RelativeDocumentMoniker": "in class 28\\Views\\ResultWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\Views\\ResultWindow.xaml",
+              "RelativeToolTip": "in class 28\\Views\\ResultWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T13:25:15.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.config",
+              "RelativeDocumentMoniker": "in class 28\\App.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.config",
+              "RelativeToolTip": "in class 28\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T13:59:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.xaml.cs",
+              "RelativeDocumentMoniker": "in class 28\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.xaml.cs",
+              "RelativeToolTip": "in class 28\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:00:06.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\packages.config",
+              "RelativeDocumentMoniker": "in class 28\\packages.config",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\packages.config",
+              "RelativeToolTip": "in class 28\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T13:59:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.xaml",
+              "RelativeDocumentMoniker": "in class 28\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\C# projects\\Group project testing\\in class 28\\App.xaml",
+              "RelativeToolTip": "in class 28\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T08:34:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwCsAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:32:25.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
